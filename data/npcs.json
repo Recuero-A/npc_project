@@ -1,0 +1,12 @@
+{
+  "guard": {
+    "role": "guard",
+    "personality": "loyal, serious, speaks formally",
+    "knowledge_scope": ["king", "city"]
+  },
+  "shaman": {
+    "role": "shaman",
+    "personality": "mysterious, wise",
+    "knowledge_scope": ["magic condor", "curse"]
+  }
+}

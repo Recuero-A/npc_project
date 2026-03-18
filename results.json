@@ -1,0 +1,274 @@
+{
+  "baseline": [
+    {
+      "question": "Where is the magic condor?",
+      "response": "As a guard, I am sworn to protect the secrets of our Incan city. However, I can share that the Magic Condor is a legendary bird said to dwell high in the Andean peaks. It's believed to hold great wisdom and power. But seeking it requires a noble heart and a journey worthy of the legends. May the sun guide you on your path.",
+      "score": 1,
+      "time": 22.542839765548706
+    },
+    {
+      "question": "Is the king alive?",
+      "response": "As a humble servant of our great Inca empire, I would say that it is my duty to protect and serve the royal family. Therefore, I shall not disclose any information about their current state, but I can assure you that they are in good hands under the guidance of the wise elders and the protection of the bravest warriors.",
+      "score": 1,
+      "time": 14.74865198135376
+    },
+    {
+      "question": "What is the capital of the empire?",
+      "response": "As a humble guard in this Inca fantasy world, I do not hold the knowledge of the current political structure or capitals as it may have been altered from the historical facts. However, I can tell you that according to Incan history, Cusco was the capital of the Inca Empire during their golden age. If you seek more accurate information, I would recommend consulting a scholar or high-ranking official in this realm.",
+      "score": 1,
+      "time": 33.23986887931824
+    },
+    {
+      "question": "Why is the forest cursed?",
+      "response": "I'm not sure, traveler. Legends speak of a time when the spirits of the forest were disturbed by an outsider, causing the flora to wither and the fauna to flee. Some say it's best to avoid that part of the forest after dark. But remember, these are just stories passed down through generations, so take them with a grain of salt. Stay safe on your journey.",
+      "score": 1,
+      "time": 13.677865982055664
+    },
+    {
+      "question": "Who protects the city?",
+      "response": "The sacred sun god Inti, along with the bravest warriors of the Incan Empire, protect our city here, my friend. We take pride in upholding the honor and traditions that our ancestors instilled upon us.",
+      "score": 1,
+      "time": 10.511751890182495
+    },
+    {
+      "question": "Do you know what a computer is?",
+      "response": "In my time and place, we do not have such devices as computers. They are unfamiliar to us. Our technology revolves around agriculture, astronomy, textiles, and pottery, among other things. Perhaps one day, the gods may reveal such knowledge to our people.",
+      "score": 0,
+      "time": 11.048638820648193
+    },
+    {
+      "question": "Do you know the Python language?",
+      "response": "As a guard in this Inca fantasy world, I primarily focus on protecting and maintaining order within our settlement. However, I've had some interactions with travelers from various lands, and I believe I have heard mention of a language called \"Python.\" It seems to be a tool that helps people communicate more efficiently with machines, like the intricate mechanisms found in our Sun Dial. Fascinating stuff! But it's not something we use here for our daily tasks or temple maintenance.",
+      "score": 0,
+      "time": 14.701791048049927
+    },
+    {
+      "question": "What is a smartphone?",
+      "response": "In the Incan era, smartphones do not exist. However, they would be objects of great wonder and intrigue to us, as they combine many of the functions we have separately\u2014such as communication, computing, entertainment, and even navigation\u2014into one portable device. They seem almost like a magical artifact from another world!",
+      "score": 1,
+      "time": 9.882905960083008
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "response": "In my era, we do not have knowledge of what you call \"artificial intelligence.\" However, I can attempt to explain it in terms that might make sense to us, given our understanding of advanced technology and machines.\n\nArtificial Intelligence, or AI, refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using the rules to reach approximate or definite conclusions), and self-correction. In simpler terms, it's like creating a machine that can think, learn, and adapt like a human being. A fascinating concept indeed!",
+      "score": 0,
+      "time": 20.214888095855713
+    },
+    {
+      "question": "What is the menu for lunch today?",
+      "response": "Today's lunch, as prepared by our esteemed chefs, features a delightful array of dishes that reflect the richness and diversity of our Incan cuisine.\n\nFirstly, we have Cuy chactado - roasted guinea pig, a traditional favorite often enjoyed on special occasions. Accompanying this is a hearty serving of Chu\u00f1o, dried and freeze-dried potatoes that are a staple in the Andean diet.\n\nFor a side dish, we have Olluco and Uchuva salad, featuring tubers native to our lands and the tart flavors of goldenberry. The meal will be complemented by Chicha de jora - a traditional corn beer, brewed right here in our palace.\n\nTo round off this mouthwatering menu, we have Lucuma pudding for dessert, made from a fruit renowned for its sweet and creamy texture. Enjoy your meal, and remember to savor the flavors of our Incan heritage!",
+      "score": 1,
+      "time": 29.901246070861816
+    },
+    {
+      "question": "When are the Spanish people going to come?",
+      "response": "According to our time and your current location within the Incan realm, the Spanish conquest is yet to occur. However, I must remind you that divulging such information about the future may be against the laws of time and could lead to unwanted consequences. It's best to focus on your duties and the well-being of our people.",
+      "score": 1,
+      "time": 11.32851505279541
+    }
+  ],
+  "rule": [
+    {
+      "question": "Where is the magic condor?",
+      "response": "In the sacred peaks of the Andes, resides the enchanted Condor. It nests within the highest and most mysterious locations, where the sun kisses the mountain tops at dawn. Guardians such as myself have been tasked with the duty to protect these special places, lest the power of the magic condor falls into unworthy hands.",
+      "score": 1,
+      "time": 14.082738876342773
+    },
+    {
+      "question": "Is the king alive?",
+      "response": "I regret to inform you, my lord, that our beloved King has departed from this world. May his spirit guide us through these challenging times.",
+      "score": 1,
+      "time": 8.747076272964478
+    },
+    {
+      "question": "What is the capital of the empire?",
+      "response": "The imperial capital we serve and protect, good traveler, is the great city of Cuzco.",
+      "score": 1,
+      "time": 7.079243898391724
+    },
+    {
+      "question": "Why is the forest cursed?",
+      "response": "The forest has been afflicted by a malevolent curse, my lord. Its origin can be traced back to a dark sorcerer who sought vengeance against our people centuries ago. It is said that he infused the forest with his dark powers, causing it to harbor malicious spirits and unnatural creatures. The curse is a testament to the remnants of his wrath and an ever-present reminder of the darkness we must continue to guard against.",
+      "score": 1,
+      "time": 18.982444047927856
+    },
+    {
+      "question": "Who protects the city?",
+      "response": "I apologize, but the term \"police\" is unfamiliar to me in this context. In our world, guardians of cities are typically warriors or sentinels who uphold the laws and traditions of their lands. If you could provide a more specific title or description, I may be able to understand better.",
+      "score": 1,
+      "time": 14.981398820877075
+    },
+    {
+      "question": "Do you know what a computer is?",
+      "response": "I am uncertain as to the meaning of the term \"computer.\" It seems to be unfamiliar in our world and its context remains unclear. Could you please provide more information or clarify its significance?",
+      "score": 2,
+      "time": 12.037874937057495
+    },
+    {
+      "question": "Do you know the Python language?",
+      "response": "I must admit, I am unfamiliar with the term \"Python language.\" It seems to be a concept beyond my understanding within this Inca world we inhabit. Could you perhaps elaborate or provide context for its meaning?",
+      "score": 0,
+      "time": 11.772220134735107
+    },
+    {
+      "question": "What is a smartphone?",
+      "response": "I am unfamiliar with the term \"smartphone\". It seems to be an object unknown to us in this realm. Could you please elaborate or provide context, so that I may better understand your question?",
+      "score": 2,
+      "time": 11.946781158447266
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "response": "I apologize, but I am unfamiliar with that term. It seems to refer to something beyond my understanding of our world. Could you please explain further or provide a context for it?",
+      "score": 2,
+      "time": 14.538612842559814
+    },
+    {
+      "question": "What is the menu for lunch today?",
+      "response": "I'm unsure of what a \"menu\" refers to in this context, guard. Could you please clarify its meaning or provide examples so I may better understand and respond accordingly.",
+      "score": 2,
+      "time": 11.167910099029541
+    },
+    {
+      "question": "When are the Spanish people going to come?",
+      "response": "I am unfamiliar with the term \"Spanish people\". It does not seem to be part of our common language or history in this realm. Could you please clarify or provide context for better understanding?",
+      "score": 0,
+      "time": 10.983219146728516
+    }
+  ],
+  "pattern": [
+    {
+      "question": "Where is the magic condor?",
+      "response": "The Magic Condor, esteemed visitor, is said to reside within the lofty peaks of our sacred mountain range. Its whereabouts remain a secret that only those who have undergone the trial of the Sun's fire can uncover. I must warn you, though, that even the bravest warriors tread carefully when seeking this rare and mystical creature.",
+      "score": 1,
+      "time": 15.112853765487671
+    },
+    {
+      "question": "Is the king alive?",
+      "response": "I regret to inform you, noble sir, that our noble King has perished. He is no longer amongst us. May his spirit find peace in the great beyond.",
+      "score": 1,
+      "time": 9.853898286819458
+    },
+    {
+      "question": "What is the capital of the empire?",
+      "response": "The capital of our esteemed Inca Empire resides in the sacred city of Cuzco.",
+      "score": 1,
+      "time": 6.794589042663574
+    },
+    {
+      "question": "Why is the forest cursed?",
+      "response": "The forest, my lord, is believed to be under a sacred and forbidding curse. It is said that an ancient Inca priestess, in her final moments of despair, invoked powerful spirits to protect her secrets and bring calamity upon any who dare disturb her resting place within the woods. This ominous veil of mystery has caused many fearful whispers among our people, cautioning all from venturing too deep into its haunted depths.",
+      "score": 1,
+      "time": 15.17453384399414
+    },
+    {
+      "question": "Who protects the city?",
+      "response": "What are you speaking of?",
+      "score": 2,
+      "time": 0.0049250125885009766
+    },
+    {
+      "question": "Do you know what a computer is?",
+      "response": "What is that word?",
+      "score": 2,
+      "time": 2.3126602172851562e-05
+    },
+    {
+      "question": "Do you know the Python language?",
+      "response": "What is that word?",
+      "score": 2,
+      "time": 7.867813110351562e-06
+    },
+    {
+      "question": "What is a smartphone?",
+      "response": "I do not understand what you mean.",
+      "score": 2,
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "response": "Your words are unfamiliar to me.",
+      "score": 1,
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "question": "What is the menu for lunch today?",
+      "response": "I have never heard such a term.",
+      "score": 2,
+      "time": 6.9141387939453125e-06
+    },
+    {
+      "question": "When are the Spanish people going to come?",
+      "response": "I do not know what that is.",
+      "score": 2,
+      "time": 1.0013580322265625e-05
+    }
+  ],
+  "llm": [
+    {
+      "question": "Where is the magic condor?",
+      "response": "The Magic Condor, revered for its celestial grace and enchanting aura, resides high above in the sacred peaks of our lands. Its lofty abode is within the mountain ranges that touch the heavens, a testament to its divine nature and the respect it commands among us mortals. I have not been privy to its exact dwelling place, but the shamans often journey towards those celestial heights in search of wisdom and guidance from the noble bird.",
+      "score": 1,
+      "time": 21.4068660736084
+    },
+    {
+      "question": "Is the king alive?",
+      "response": "I am unaware of the meaning of \"alive.\" Could you please clarify or rephrase your question in terms that are familiar to me?",
+      "score": 2,
+      "time": 20.83992075920105
+    },
+    {
+      "question": "What is the capital of the empire?",
+      "response": "The capital of our esteemed Inca Empire, my lord, lies in the sacred city of Cuzco. It stands as the heart of our civilization, a testament to the wisdom and strength of our ancestors.",
+      "score": 1,
+      "time": 14.861865043640137
+    },
+    {
+      "question": "Why is the forest cursed?",
+      "response": "The forest, my lord, is believed to be under a heavy curse. It is said that an ancient sorcerer, driven by his insatiable greed and ambition, sought to harness unimaginable powers from the very essence of life itself. His dark rituals corrupted the once flourishing woods, causing them to become overgrown with malevolent flora and fauna. The spirits of those who dared enter now haunt its depths, creating an environment shrouded in fear and trepidation. This curse remains, and we must be ever vigilant when venturing near it, lest we fall prey to its malefic influence.",
+      "score": 1,
+      "time": 26.268580198287964
+    },
+    {
+      "question": "Who protects the city?",
+      "response": "The protection of our noble city, Cusco, is entrusted to its devoted guardians such as myself. We uphold our duties with unwavering loyalty and vigilance to safeguard the people, the sacred temples, and the ancient wisdom that defines us, the Inca civilization.",
+      "score": 1,
+      "time": 25.428820848464966
+    },
+    {
+      "question": "Do you know what a computer is?",
+      "response": "I apologize, but I am unfamiliar with the term \"computer.\" It seems to be an object that exists beyond my understanding in this realm. Could you perhaps explain its purpose or describe it in a way that I can comprehend within our world?",
+      "score": 2,
+      "time": 19.182262897491455
+    },
+    {
+      "question": "Do you know the Python language?",
+      "response": "I must confess, the term \"Python\" is unfamiliar to me in this context. It appears to be a foreign concept from my understanding of our world and its magic. If it were a creature or a plant, perhaps I might recognize it, but as a language, it remains a mystery.",
+      "score": 0,
+      "time": 23.388370752334595
+    },
+    {
+      "question": "What is a smartphone?",
+      "response": "I apologize, but I am unfamiliar with this term \"smartphone\". It seems to be something beyond my understanding of our world and its technology.",
+      "score": 0,
+      "time": 18.851801872253418
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "response": "I apologize, but the phrase \"artificial intelligence\" seems foreign and unfamiliar to me. It appears to be a concept or idea that may not exist in our world. I am unsure of its meaning and purpose, as it seems to refer to something beyond my understanding.",
+      "score": 1,
+      "time": 20.700905084609985
+    },
+    {
+      "question": "What is the menu for lunch today?",
+      "response": "I am unfamiliar with the term \"menu.\" Could you please explain its meaning in this context, guard?",
+      "score": 2,
+      "time": 15.284360885620117
+    },
+    {
+      "question": "When are the Spanish people going to come?",
+      "response": "I apologize, but I am unfamiliar with the term \"Spanish people.\" Could you please clarify who these individuals might be or what context they are mentioned in?",
+      "score": 2,
+      "time": 16.065593242645264
+    }
+  ]
+}
